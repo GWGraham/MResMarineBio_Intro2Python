@@ -1,0 +1,14 @@
+name: mresmarbio2018
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - cartopy=0.16.0
+  - geopandas=0.3.0
+  - matplotlib=2.2.2
+  - numpy=1.14.4
+  - pandas=0.23.0
+  - xlrd=1.1.0
+
+
